@@ -1,0 +1,8 @@
+{
+  "name": "react-native-navigation-template",
+  "version": "0.0.1",
+  "description": "React Native Navigation Template",
+  "repository": "git@github.com:priyeshshah11/react-native-navigation-template.git",
+  "author": "Priyesh Shah <priyeshshah11@gmail.com>",
+  "license": "MIT"
+}
